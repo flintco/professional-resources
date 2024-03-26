@@ -2,10 +2,15 @@
 
   - [Topics](#topics)
     - [Algorithm and data structures](#algorithm-and-data-structures)
-    - [API design & development](#api-design--development)
+    - [API](#api-design--development)
+    - [Career](#Career)
+    - [CSS](#CSS)
+    - [Git](#Git)
     - [Onboarding](#Onboarding)
+    - [Problem Solving](#Problem-Solving)
+    - [SQL](#SQL)
 
-### Algorithms
+### Algorithms and Data Structures
 - [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/) by Jeff Erickson
 - [Big O Cheat Sheat](https://www.bigocheatsheet.com)
 - [Blind 75 List of Coding Questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
@@ -37,3 +42,7 @@
 
 - [Rubber Duck Debugging](https://rubberduckdebugging.com/)
   - A powerful tool to get unstuck is explaining your thinking to someone (or an inanimate object) that doesn't have knowledge on the subject.
+
+### SQL
+
+- [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial)
