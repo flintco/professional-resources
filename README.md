@@ -11,6 +11,10 @@
 - [Blind 75 List of Coding Questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
 - [Sorting Algorithms Explained Visually Video](https://www.youtube.com/watch?v=RfXt_qHDEPw)
 
+### API
+
+- [What is an API? In English, please.](https://www.freecodecamp.org/news/what-is-an-api-in-english-please-b880a3214a82/)
+
 ### CSS
 - [Flexbox Froggy Game](https://flexboxfroggy.com/)
 
