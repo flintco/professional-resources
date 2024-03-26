@@ -48,3 +48,8 @@
 ### SQL
 
 - [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial)
+
+### Testing
+
+- [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
+- [What is the cost of a bug?](https://azevedorafaela.com/2018/04/27/what-is-the-cost-of-a-bug/)
