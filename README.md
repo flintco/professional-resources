@@ -15,3 +15,8 @@
   - Onboarding is complete when team member is "reliably independent"
   - Teams that onboard badly can actually get less work done with the addition of new engineers
 - [The traits of a proficient programmer](https://www.oreilly.com/ideas/the-traits-of-a-proficient-programmer)
+
+### Problem Solving
+
+- [Rubber Duck Debugging](https://rubberduckdebugging.com/)
+  - A powerful tool to get unstuck is explaining your thinking to someone (or an inanimate object) that doesn't have knowledge on the subject.
