@@ -9,6 +9,8 @@
     - [Onboarding](#Onboarding)
     - [Problem Solving](#Problem-Solving)
     - [SQL](#SQL)
+    - [Testing](#Testing)
+    - [User Management(#User-Management)
 
 ### Algorithms and Data Structures
 - [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/) by Jeff Erickson
@@ -53,3 +55,9 @@
 
 - [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 - [What is the cost of a bug?](https://azevedorafaela.com/2018/04/27/what-is-the-cost-of-a-bug/)
+
+### User Management
+- [Guide to User Management](https://workos.com/blog/the-developers-guide-to-user-management/?utm_source=quastor&utm_medium=newsletter&utm_campaign=q12024)
+  - SSO and MFA are becoming more of an expectation for companies to use to authorize users
+  - Sessions are how users are kept logged in. Implemented with either cookies or JWT.
+  - Also discuesses other ideal functionality such as bot protection, user experience of login process, email verification, and identity linking 
