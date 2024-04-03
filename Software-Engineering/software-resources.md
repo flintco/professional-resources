@@ -15,6 +15,7 @@
 ### Algorithms and Data Structures
 - [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/) by Jeff Erickson
 - [Big O Cheat Sheat](https://www.bigocheatsheet.com)
+- [Big O Notation in 5 minutes video](https://www.youtube.com/watch?v=__vX2sjlpXU)
 - [Blind 75 List of Coding Questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
 - [Sorting Algorithms Explained Visually Video](https://www.youtube.com/watch?v=RfXt_qHDEPw)
 
