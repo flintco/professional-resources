@@ -10,4 +10,7 @@
 ### Minimum Viable Product
 - [How Levels.fyi scaled to millions of users with Google Sheets backend](https://www.levels.fyi/blog/scaling-to-millions-with-google-sheets.html) 
 
+### Operations
+- [Do things that do not scale](https://paulgraham.com/ds.html)
+
 ### Product Market Fit

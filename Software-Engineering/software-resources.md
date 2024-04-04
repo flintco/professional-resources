@@ -11,6 +11,9 @@
     - [SQL](#SQL)
     - [Testing](#Testing)
     - [User Management](#User-Management)
+    - [Web Development](#Web-Development)
+
+This is my list of professional software engineering resources inspired by charlax's [list of resources](https://github.com/charlax/professional-programming).
 
 ### Algorithms and Data Structures
 - [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/) by Jeff Erickson
@@ -26,6 +29,7 @@
 ### Career
 
 - [Tech Career Roadmaps](https://roadmap.sh)
+- [Programming Competency Matrix](https://www.sijinjoseph.com/programmer-competency-matrix/)
   
 ### CSS
 - [Flexbox Froggy Game](https://flexboxfroggy.com/)
@@ -52,13 +56,17 @@
 
 ### SQL
 
+- [Free Tool that makes entity diagram from code](https://dbdiagram.io/home)
 - [SQL Bolt Tutorial](https://sqlbolt.com)
 - [SQL Zoo Tutorial](https://sqlzoo.net/wiki/SQL_Tutorial)
 
 ### System Design
 
 - [Designing Data-Intensive Applications Book](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
-- [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial)
+- [System Design Github Course](https://github.com/karanpratapsingh/system-design?tab=readme-ov-file)
+- [System Design Step by Step](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
+- [System Design Study Guide](https://docs.google.com/document/d/1KfyhNgojjp-0fyBFqqV7jaGErPGFfo1BgnuN9_yDIkk)
+- [Report on TikTok's System Design](https://arxiv.org/pdf/2209.07663.pdf)
 
 ### Testing
 
@@ -70,3 +78,6 @@
   - SSO and MFA are becoming more of an expectation for companies to use to authorize users
   - Sessions are how users are kept logged in. Implemented with either cookies or JWT.
   - Also discuesses other ideal functionality such as bot protection, user experience of login process, email verification, and identity linking 
+
+### Web Development
+- [How the web works step by step](https://github.com/vasanthk/how-web-works)
