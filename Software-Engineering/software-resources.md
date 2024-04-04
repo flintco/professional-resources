@@ -7,6 +7,7 @@
     - [CSS](#CSS)
     - [Git](#Git)
     - [Onboarding](#Onboarding)
+    - [Operating Systems](#Operating-Systems)
     - [Problem Solving](#Problem-Solving)
     - [SQL](#SQL)
     - [Testing](#Testing)
@@ -46,6 +47,10 @@ This is my list of professional software engineering resources inspired by charl
   - If technical debt is the eventual consequence of poor design, team debt is the eventual consequence of not training employees correctly which leads to sub-optimal team performance.
   - Onboarding is complete when team member is "reliably independent"
   - Teams that onboard badly get less work done with the addition of new engineers
+
+### Operating Systems
+- [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+  
 
 ### Problem Solving
 
