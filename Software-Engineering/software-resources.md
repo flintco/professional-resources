@@ -31,8 +31,10 @@
 - [Flexbox Froggy Game](https://flexboxfroggy.com/)
 
 ### Git
-- [Pro Git Ebook](https://git-scm.com/book/en/v2)
+- [Git Flight Rules](https://github.com/k88hudson/git-flight-rules)
 - [Learn Git Branching Game](https://learngitbranching.js.org/?locale=en_US)
+- [Oh Shit, Git](https://ohshitgit.com)
+- [Pro Git Ebook](https://git-scm.com/book/en/v2)
 
 ### Onboarding
 
@@ -50,6 +52,12 @@
 
 ### SQL
 
+- [SQL Bolt Tutorial](https://sqlbolt.com)
+- [SQL Zoo Tutorial](https://sqlzoo.net/wiki/SQL_Tutorial)
+
+### System Design
+
+- [Designing Data-Intensive Applications Book](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 - [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial)
 
 ### Testing
