@@ -12,5 +12,6 @@
 
 ### Operations
 - [Do things that do not scale](https://paulgraham.com/ds.html)
+- [YC's essential startup advice](https://www.ycombinator.com/library/4D-yc-s-essential-startup-advice)
 
 ### Product Market Fit
