@@ -6,6 +6,7 @@
     - [Career](#Career)
     - [CSS](#CSS)
     - [Git](#Git)
+    - [Mentoring](#Mentoring)
     - [Onboarding](#Onboarding)
     - [Operating Systems](#Operating-Systems)
     - [Problem Solving](#Problem-Solving)
@@ -40,6 +41,11 @@ This is my list of professional software engineering resources inspired by charl
 - [Learn Git Branching Game](https://learngitbranching.js.org/?locale=en_US)
 - [Oh Shit, Git](https://ohshitgit.com)
 - [Pro Git Ebook](https://git-scm.com/book/en/v2)
+
+
+### Mentoring
+- [How to Mentor Software Engineers](https://read.highgrowthengineer.com/p/2024-guide-to-mentoring-for-software)
+
 
 ### Onboarding
 
