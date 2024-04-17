@@ -12,6 +12,7 @@
 
 ### Marketing
 - [How to find first 1000 customers](https://www.lennysnewsletter.com/p/consumer-business-find-first-users)
+- [What is UTM code?](https://www.weidert.com/blog/what-is-utm-code)
 
 ### Minimum Viable Product
 - [How Levels.fyi scaled to millions of users with Google Sheets backend](https://www.levels.fyi/blog/scaling-to-millions-with-google-sheets.html) 
