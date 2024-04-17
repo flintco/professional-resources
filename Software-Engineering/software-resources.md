@@ -82,6 +82,7 @@ This is my list of professional software engineering resources inspired by charl
 ### Testing
 
 - [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
+- [Shift Left](https://www.freecodecamp.org/news/what-is-shift-left-in-software/)
 - [What is the cost of a bug?](https://azevedorafaela.com/2018/04/27/what-is-the-cost-of-a-bug/)
 
 ### User Management
