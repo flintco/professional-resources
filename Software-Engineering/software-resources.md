@@ -85,10 +85,12 @@ This is my list of professional software engineering resources inspired by charl
 - [What is the cost of a bug?](https://azevedorafaela.com/2018/04/27/what-is-the-cost-of-a-bug/)
 
 ### User Management
-- [Guide to User Management](https://workos.com/blog/the-developers-guide-to-user-management/?utm_source=quastor&utm_medium=newsletter&utm_campaign=q12024)
+- [Beer Drinkers Guide to SAML](https://duo.com/blog/the-beer-drinkers-guide-to-saml)
+- [Developers Guide to SSO](https://workos.com/blog/the-developers-guide-to-sso)
+- [Guide to User Management](https://workos.com/blog/the-developers-guide-to-user-management)
   - SSO and MFA are becoming more of an expectation for companies to use to authorize users
   - Sessions are how users are kept logged in. Implemented with either cookies or JWT.
   - Also discuesses other ideal functionality such as bot protection, user experience of login process, email verification, and identity linking 
-
+- [Authentication using Node and Passport.js](https://www.freecodecamp.org/news/learn-how-to-handle-authentication-with-node-using-passport-js-4a56ed18e81e/)
 ### Web Development
 - [How the web works step by step](https://github.com/vasanthk/how-web-works)
