@@ -1,6 +1,7 @@
 ### Table of Contents
 
   - [Topics](#topics)
+    - [Artificial Intelligence](#artificial-intelligence)
     - [Algorithm and data structures](#algorithm-and-data-structures)
     - [API](#api-design-development)
     - [Career](#Career)
@@ -16,6 +17,9 @@
     - [Web Development](#Web-Development)
 
 This is my list of professional software engineering resources inspired by charlax's [list of resources](https://github.com/charlax/professional-programming).
+
+### Artificial Intelligence
+- [How does ChatGPT actually work?](https://www.scalablepath.com/machine-learning/chatgpt-architecture-explained)
 
 ### Algorithms and Data Structures
 - [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/) by Jeff Erickson
