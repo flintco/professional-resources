@@ -6,6 +6,7 @@
     - [Minimum Viable Product](#minimum-viable-product)
     - [Operations](#Operations)
     - [Product Market Fit](#product-market-fit)
+    - [Venture Capital](#venture-capital)
 
 ### Ideation
 - [Video on finding successful business ideas](https://youtu.be/iQE-q9LU1UE?si=PhEJXKroORkBi21c)
@@ -22,3 +23,6 @@
 - [YC's essential startup advice](https://www.ycombinator.com/library/4D-yc-s-essential-startup-advice)
 
 ### Product Market Fit
+
+### Venture Capital
+- [Venture Capital Syllabus](https://harlem.capital/the-harlem-capital-syllabus-a-primer-on-venture-capital/?trk=feed_main-feed-card_feed-article-content)
