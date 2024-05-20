@@ -9,6 +9,7 @@
     - [Git](#Git)
     - [Identity and Access Management](#identity-and-access-management)
     - [Mentoring](#Mentoring)
+    - [Migrations](#Migrations)
     - [Onboarding](#Onboarding)
     - [Operating Systems](#Operating-Systems)
     - [Problem Solving](#Problem-Solving)
@@ -59,7 +60,9 @@ This is my list of professional software engineering resources inspired by charl
 ### Mentoring
 - [How to Mentor Software Engineers](https://read.highgrowthengineer.com/p/2024-guide-to-mentoring-for-software)
 
-
+### Migrations
+- [Migrations: the sole scalable solution to tech debt](https://lethain.com/migrations/)
+- [Migrating millions of lines of code in one PR](https://stripe.com/blog/migrating-to-typescript)
 ### Onboarding
 
 - [Onboarding and the Cost of Team Debt](https://www.kateheddleston.com/blog/onboarding-and-the-cost-of-team-debt)
