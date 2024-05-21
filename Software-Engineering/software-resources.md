@@ -5,6 +5,7 @@
     - [Algorithm and data structures](#algorithm-and-data-structures)
     - [API](#api-design-development)
     - [Career](#Career)
+    - [Databases](#Databases)
     - [CSS](#CSS)
     - [Git](#Git)
     - [Identity and Access Management](#identity-and-access-management)
@@ -40,6 +41,9 @@ This is my list of professional software engineering resources inspired by charl
   
 ### CSS
 - [Flexbox Froggy Game](https://flexboxfroggy.com/)
+
+### Databases
+- [Intro to Databases Class Summary](https://thodrek.github.io/cs564-fall17/lectures/final_review/final_review.pdf)
 
 ### Git
 - [Git Flight Rules](https://github.com/k88hudson/git-flight-rules)
