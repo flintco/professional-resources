@@ -67,8 +67,9 @@ This is my list of professional software engineering resources inspired by charl
 ### Migrations
 - [Migrations: the sole scalable solution to tech debt](https://lethain.com/migrations/)
 - [Migrating millions of lines of code in one PR](https://stripe.com/blog/migrating-to-typescript)
-### Onboarding
 
+### Onboarding
+- [Guide to Onboarding Software Engineers](https://leadership.garden/onboarding-engineers/?utm_source=blog.quastor.org&utm_medium=newsletter)
 - [Onboarding and the Cost of Team Debt](https://www.kateheddleston.com/blog/onboarding-and-the-cost-of-team-debt)
   - If technical debt is the eventual consequence of poor design, team debt is the eventual consequence of not training employees correctly which leads to sub-optimal team performance.
   - Onboarding is complete when team member is "reliably independent"
