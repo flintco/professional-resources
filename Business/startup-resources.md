@@ -2,6 +2,7 @@
 
   - [Topics](#topics)
     - [Ideation](#Ideation)
+    - [Leverage](#Leverage)
     - [Marketing](#Marketing)
     - [Minimum Viable Product](#minimum-viable-product)
     - [Operations](#Operations)
@@ -10,6 +11,9 @@
 
 ### Ideation
 - [Video on finding successful business ideas](https://youtu.be/iQE-q9LU1UE?si=PhEJXKroORkBi21c)
+
+### Leverage
+- [Find a position of leverage](https://www.navalmanack.com/almanack-of-naval-ravikant/find-a-position-of-leverage)
 
 ### Marketing
 - [How to find first 1000 customers](https://www.lennysnewsletter.com/p/consumer-business-find-first-users)
