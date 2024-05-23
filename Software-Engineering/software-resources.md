@@ -5,8 +5,9 @@
     - [Algorithm and data structures](#algorithm-and-data-structures)
     - [API](#api-design-development)
     - [Career](#Career)
-    - [Databases](#Databases)
     - [CSS](#CSS)
+    - [Databases](#Databases)
+    - [Deployments](#Deployments)
     - [Git](#Git)
     - [Identity and Access Management](#identity-and-access-management)
     - [Mentoring](#Mentoring)
@@ -44,6 +45,9 @@ This is my list of professional software engineering resources inspired by charl
 
 ### Databases
 - [Intro to Databases Class Summary](https://thodrek.github.io/cs564-fall17/lectures/final_review/final_review.pdf)
+
+### Deployments
+- [Feature Toggles](https://martinfowler.com/articles/feature-toggles.html)
 
 ### Git
 - [Git Flight Rules](https://github.com/k88hudson/git-flight-rules)
