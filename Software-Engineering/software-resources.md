@@ -4,6 +4,7 @@
     - [Artificial Intelligence](#artificial-intelligence)
     - [Algorithm and data structures](#algorithm-and-data-structures)
     - [API](#api-design-development)
+    - [Architecture](#architecture)
     - [Career](#Career)
     - [CSS](#CSS)
     - [Databases](#Databases)
@@ -34,6 +35,9 @@ This is my list of professional software engineering resources inspired by charl
 ### API
 
 - [What is an API? In English, please.](https://www.freecodecamp.org/news/what-is-an-api-in-english-please-b880a3214a82/)
+
+### Architecture
+- [From Microservices to Monolith](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90)
 
 ### Career
 
